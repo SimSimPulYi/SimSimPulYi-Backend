@@ -1,1 +1,1 @@
-# SimSimPulYi-Backend
+# 심심풀이 백엔드
